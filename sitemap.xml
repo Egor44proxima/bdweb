@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/bdweb/posts/</loc>
+    <loc>https://egor44proxima.github.io/bdweb/posts/</loc>
     <lastmod>2025-01-26T19:04:33+02:00</lastmod>
   </url><url>
-    <loc>/bdweb/bdls/</loc>
+    <loc>https://egor44proxima.github.io/bdweb/bdls/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>/bdweb/</loc>
+    <loc>https://egor44proxima.github.io/bdweb/</loc>
     <lastmod>2022-08-25T21:30:04+08:00</lastmod>
   </url><url>
-    <loc>/bdweb/categories/</loc>
+    <loc>https://egor44proxima.github.io/bdweb/categories/</loc>
   </url><url>
-    <loc>/bdweb/tags/</loc>
+    <loc>https://egor44proxima.github.io/bdweb/tags/</loc>
   </url>
 </urlset>

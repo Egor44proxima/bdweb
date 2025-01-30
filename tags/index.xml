@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Proxima Research</title>
-    <link>/bdweb/tags/</link>
+    <link>https://egor44proxima.github.io/bdweb/tags/</link>
     <description>Recent content in Tags on Proxima Research</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/bdweb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://egor44proxima.github.io/bdweb/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
